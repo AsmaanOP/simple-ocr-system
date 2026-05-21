@@ -1,0 +1,2 @@
+# simple-ocr-system
+A Python desktop app using Tkinter and Tesseract OCR to extract editable text from images. Engineered an OpenCV preprocessing pipeline (grayscale, blur, Otsu binarization) to maximize text accuracy. The intuitive GUI enables real-time verification and automated 1-click exports to .txt files for downstream use.
